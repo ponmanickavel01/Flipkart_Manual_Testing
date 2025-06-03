@@ -39,6 +39,5 @@ To simulate **real QA workflow** and show my approach to:
 - `TestCases_Flipkart_Web.xlsx`
 - `README.md`
 
-## 💬 In Interviews, I Say:
 
 > “To simulate a real QA workflow, I reverse-engineered Flipkart's login, cart, and checkout features and designed manual test cases focusing on UI, input validation, and flow testing.”
